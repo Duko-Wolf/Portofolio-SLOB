@@ -1,36 +1,36 @@
 # Portofolio-SLOB
 
 Weet goed wat deze opleiding inhoudt en of deze opleiding bij je past:
-Brief-Mentor
+Brief-Mentor (pdf map)
 
 Je kunt je persoonlijke kwaliteiten benoemen en uitleggen:
-LinkedIn
-DISC-test
-360 graden feedback
+LinkedIn (txt map),
+DISC-test (png map),
+360 graden feedback (txt map)
 
 Je ontwikkelt studievaardigheden en kunt deze inzetten:
-Week-En-Dagplanner
+Week-En-Dagplanner (png map)
 
 Je kunt reflecteren volgens verschillende manieren en deze inzetten:
-starr-Reflectie,
-hand-Reflectie
+starr-Reflectie (hand-en-starr map),
+hand-Reflectie (hand-en-starr map)
 
 Je krijgt meer inzicht in jouw motieven om in de ICT te werken:
-DISC-test
+DISC-test (png map)
 
 Je ontwikkelt je persoonlijk maar ook beroepsmatig:
-LinkedIn
-360 graden feedback
+LinkedIn (txt map),
+360 graden feedback (txt map)
 
 Je weet wat een goede beroepshouding is, en wat het beroep inhoudt:
-Onderbouwing Kwalificatiedossier software developer
+Onderbouwing Kwalificatiedossier software developer (docs map)
 
 Je weet in welke branches je kunt werken als je gediplomeerd bent en wat het werk inhoudt:
-LinkedIn
-Onderbouwing Kwalificatiedossier software developer
+LinkedIn (txt map),
+Onderbouwing Kwalificatiedossier software developer (docs map)
 
 Je maakt een beargumenteerde keuze over het vervolg na je opleiding
-Brief-Mentor
+Brief-Mentor (pdf map map)
 
 Je leert verantwoordelijkheid te nemen voor je eigen leerproces
-Week-En-Dagplanner
+Week-En-Dagplanner (png map)
